@@ -20,7 +20,7 @@ Checkout Time by Gender:  The trip durations were also reviewed based on gender,
 Trips by Weekday per Hour:  This heatmap indicates that most trips were taken during the 7:00-9:00 morning hours and the 4:00-7:00 evening hours during the weekdays, with a fairly even spread on the weekend days.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/Picture5.png" width="500" heigth="400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/Picture6.png" width="500" heigth="400">
 
 Trips By Gender:  Here we can see that the most common start times in the previous graph were true for both male and females.
 
@@ -30,7 +30,7 @@ Trips By Gender:  Here we can see that the most common start times in the previo
 User Trips by Gender:  Citi Bike provides several plans for bike usage, including Subscriber (monthly or yearly plan) or a Customer (day or trip plan). This visualization shows the trips by the user type per weekday and gender. Thursday shows as a favorite day for Subscribers, while Saturday was more populate for the Customers.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/Picture6.png" width="500" heigth="400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="Resources/Picture5.png" width="500" heigth="400">
 
 Users by Gender:  This confirms that most of the users are male. The numbers could indicate a marketing opportunity and needs to be further researched to determine why there are not more females taking advantage of bike-sharing.
 
